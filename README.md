@@ -35,8 +35,6 @@ My main interests are **C#**, **JavaScript**, and **Web Development**, and I'm c
 ![Git](https://img.shields.io/badge/Git-D8B4FE?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-D8B4FE?style=for-the-badge&logo=python&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-D8B4FE?style=for-the-badge&logo=blender&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-D8B4FE?style=for-the-badge&logo=visualstudiocode&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-D8B4FE?style=for-the-badge&logo=visualstudio&logoColor=black)
 
 
 </div>
