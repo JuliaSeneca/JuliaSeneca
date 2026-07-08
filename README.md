@@ -11,8 +11,8 @@
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C8A2FF&center=true&vCenter=true&random=false&width=524&lines=♡+Julia+Michelle+Seneca!+♡+">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C8A2FF&center=true&vCenter=true&random=false&width=524&lines=♡+Julia+Michelle+Seneca!+♡+" alt="Typing SVG">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C8A2FF&center=true&vCenter=true&random=false&width=524&lines=%E2%99%A1+Julia+Michelle+Seneca!+%E2%99%A1+">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C8A2FF&center=true&vCenter=true&random=false&width=524&lines=%E2%99%A1+Julia+Michelle+Seneca!+%E2%99%A1+" alt="Typing SVG">
   </picture>
 </a>
 
