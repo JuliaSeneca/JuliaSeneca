@@ -42,11 +42,11 @@ My main interests are **C#**, **JavaScript**, and **Web Development**, and I'm c
 
 ### Languages
 
-![Norwegian](https://img.shields.io/badge/Norwegian-C8A2FF?style=for-the-badge&logo=googletranslate&logoColor=white)
-![C2](https://img.shields.io/badge/C2-C8A2FF?style=for-the-badge)
-
 ![Portuguese](https://img.shields.io/badge/Portuguese-C8A2FF?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![Native](https://img.shields.io/badge/Native-C8A2FF?style=for-the-badge)
+
+![Norwegian](https://img.shields.io/badge/Norwegian-C8A2FF?style=for-the-badge&logo=googletranslate&logoColor=white)
+![C2](https://img.shields.io/badge/C2-C8A2FF?style=for-the-badge)
 
 ![English](https://img.shields.io/badge/English-C8A2FF?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![C1](https://img.shields.io/badge/C1-C8A2FF?style=for-the-badge)
